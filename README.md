@@ -9,5 +9,10 @@ saveLife consist in a backend where all the data is stored in secure way and mul
 ## I have planed a trip. Have i take all the things i need... Oh... my recipe !
 ## Help me, i am in an emergency situation !!! You have my medical history online ( What do i need to complete ? )
 ## Panic button
+## Telemedicine. Help me, give me your answer or advice.
+##  ( Medical ) Emergency post nearby
+## I am a doctor, have my patients followed my advice/Drug plan ?
+## Health monitoring
+
 
 
